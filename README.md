@@ -1,1 +1,1 @@
-# Algoritmos-e-l-gica-fatec
+# Algoritmos-e-lógica-de-programação-FATEC
